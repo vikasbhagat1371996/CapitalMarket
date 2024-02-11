@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-03T03:17:42 IST" name="capital_Market" finished-at="2024-02-03T03:18:17 IST" duration-ms="35033">
+  <suite started-at="2024-02-08T18:20:26 IST" name="capital_Market" finished-at="2024-02-08T18:21:06 IST" duration-ms="40371">
     <groups>
     </groups>
-    <test started-at="2024-02-03T03:17:42 IST" name="TC_Login" finished-at="2024-02-03T03:18:17 IST" duration-ms="35033">
+    <test started-at="2024-02-08T18:20:26 IST" name="TC_Login" finished-at="2024-02-08T18:21:06 IST" duration-ms="40371">
       <class name="com.capital_Market.testcases.TC_logoutpage">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-03T03:17:42 IST" name="setup" finished-at="2024-02-03T03:18:05 IST" duration-ms="23200" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-08T18:20:26 IST" name="setup" finished-at="2024-02-08T18:20:56 IST" duration-ms="30144" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,23 +18,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test()[pri:0, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-03T03:18:05 IST" name="test" finished-at="2024-02-03T03:18:05 IST" duration-ms="11" status="PASS">
+        <test-method signature="test()[pri:0, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-08T18:20:56 IST" name="test" finished-at="2024-02-08T18:20:56 IST" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="checklogin()[pri:1, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-03T03:18:05 IST" name="checklogin" finished-at="2024-02-03T03:18:06 IST" duration-ms="890" status="PASS">
+        <test-method signature="checklogin()[pri:1, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-08T18:20:56 IST" name="checklogin" finished-at="2024-02-08T18:20:58 IST" duration-ms="1685" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checklogin -->
-        <test-method signature="checklogout()[pri:2, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-03T03:18:06 IST" name="checklogout" finished-at="2024-02-03T03:18:06 IST" duration-ms="200" status="PASS">
+        <test-method signature="checklogout()[pri:2, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-08T18:20:58 IST" name="checklogout" finished-at="2024-02-08T18:20:58 IST" duration-ms="133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checklogout -->
-        <test-method signature="checkimg()[pri:3, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-03T03:18:06 IST" name="checkimg" finished-at="2024-02-03T03:18:17 IST" duration-ms="10473" status="PASS">
+        <test-method signature="checkimg()[pri:3, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-08T18:20:58 IST" name="checkimg" finished-at="2024-02-08T18:21:06 IST" duration-ms="7927" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkimg -->
-        <test-method signature="logout()[pri:4, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-03T03:18:17 IST" name="logout" finished-at="2024-02-03T03:18:17 IST" duration-ms="123" status="PASS">
+        <test-method signature="logout()[pri:4, instance:com.capital_Market.testcases.TC_logoutpage@411f53a0]" started-at="2024-02-08T18:21:06 IST" name="logout" finished-at="2024-02-08T18:21:06 IST" duration-ms="143" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->

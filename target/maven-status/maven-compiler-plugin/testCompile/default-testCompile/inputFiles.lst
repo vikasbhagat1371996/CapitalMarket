@@ -1,4 +1,6 @@
 E:\java demo\CAPITAL_MARKET\src\test\java\com\capital_Market\testcases\TC_Login.java
+E:\java demo\CAPITAL_MARKET\src\test\java\com\capital_Market\pageobjects\logout_page.java
+E:\java demo\CAPITAL_MARKET\src\test\java\com\capital_Market\testcases\TC_logoutpage.java
 E:\java demo\CAPITAL_MARKET\src\test\java\com\capital_Market\pageobjects\Login_page.java
 E:\java demo\CAPITAL_MARKET\src\test\java\com\capital_Market\utilities\Readconfig.java
 E:\java demo\CAPITAL_MARKET\src\test\java\com\capital_Market\testcases\BaseClass.java

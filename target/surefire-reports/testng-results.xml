@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-03T03:51:04 IST" name="capital_Market" finished-at="2024-02-03T03:51:33 IST" duration-ms="28860">
+    <groups>
+    </groups>
+    <test started-at="2024-02-03T03:51:04 IST" name="TC_Login" finished-at="2024-02-03T03:51:33 IST" duration-ms="28860">
+      <class name="com.capital_Market.testcases.TC_logoutpage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.capital_Market.testcases.TC_logoutpage@742ff096]" started-at="2024-02-03T03:51:04 IST" name="setup" finished-at="2024-02-03T03:51:24 IST" duration-ms="20405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.capital_Market.testcases.TC_logoutpage@742ff096]" started-at="2024-02-03T03:51:24 IST" name="test" finished-at="2024-02-03T03:51:24 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="checklogin()[pri:1, instance:com.capital_Market.testcases.TC_logoutpage@742ff096]" started-at="2024-02-03T03:51:24 IST" name="checklogin" finished-at="2024-02-03T03:51:25 IST" duration-ms="688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklogin -->
+        <test-method signature="checklogout()[pri:2, instance:com.capital_Market.testcases.TC_logoutpage@742ff096]" started-at="2024-02-03T03:51:25 IST" name="checklogout" finished-at="2024-02-03T03:51:25 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklogout -->
+        <test-method signature="checkimg()[pri:3, instance:com.capital_Market.testcases.TC_logoutpage@742ff096]" started-at="2024-02-03T03:51:25 IST" name="checkimg" finished-at="2024-02-03T03:51:33 IST" duration-ms="7506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkimg -->
+        <test-method signature="logout()[pri:4, instance:com.capital_Market.testcases.TC_logoutpage@742ff096]" started-at="2024-02-03T03:51:33 IST" name="logout" finished-at="2024-02-03T03:51:33 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.capital_Market.testcases.TC_logoutpage -->
+    </test> <!-- TC_Login -->
+  </suite> <!-- capital_Market -->
+</testng-results>
